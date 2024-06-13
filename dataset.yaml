@@ -1,0 +1,7 @@
+train: ./train_yolo
+val: ./val
+test: ./test
+
+nc: 2
+
+names: ['penguin','turtle']  # class names
